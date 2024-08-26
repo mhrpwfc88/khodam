@@ -28,7 +28,11 @@ To get started with **Server Nata**, follow these steps:
     ```bash
     git clone https://github.com/mhrpwfc88/khodam.git
     ```
+2. **Import databases**
+buat databases dan import database khodamdb.sql
 
+3. **change database connection**
+ganti koneksi database di file delete_users dan save_name
 ## 💬 Contributing
 
 saya buat source ini dengan mandiri:v
