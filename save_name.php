@@ -203,6 +203,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     ["name" => "Ikan Petualang", "meaning" => "Kamu tenang dan selalu membawa kedamaian di mana pun kamu berada."],
     ["name" => "Angsa Lembut", "meaning" => "Kamu penuh keanggunan dan selalu tampil dengan penuh percaya diri."]
 
+     
         ];
         $khodam = $khodams[array_rand($khodams)];
         $khodam_name = $khodam["name"];
